@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-mysynmonp-dev-203317-authRole",
+            "UnauthRoleArn": "arn:aws:iam::852307403105:role/amplify-mysynmonp-dev-203317-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::852307403105:role/amplify-mysynmonp-dev-203317-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-mysynmonp-dev-203317-deployment",
+            "UnauthRoleName": "amplify-mysynmonp-dev-203317-unauthRole",
+            "StackName": "amplify-mysynmonp-dev-203317",
+            "StackId": "arn:aws:cloudformation:us-east-1:852307403105:stack/amplify-mysynmonp-dev-203317/a6106710-fc8a-11e9-94f2-0a583df6bf38"
+        }
+    }
+}
